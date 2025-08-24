@@ -11,15 +11,14 @@ A modern React frontend application with complete authentication flow using Pock
 ## 📱 Screenshots
 
 ### Login Page
-<img width="1920" height="1080" alt="loginss" src="https://github.com/user-attachments/assets/ee4a9c44-ac39-4ce6-a67e-a2e7e0142063" />
-
+<img width="1920" height="1080" alt="loginss" src="https://github.com/user-attachments/assets/5603a52e-5f8b-4486-bb1d-98758fc14abf" />
 
 ### Registration Page  
-<img width="1920" height="1080" alt="registerss" src="https://github.com/user-attachments/assets/65579fb5-5efb-4e44-b139-04517d413e82" />
-
+<img width="1920" height="1080" alt="registerss" src="https://github.com/user-attachments/assets/3eb04d3e-ae8c-4d4a-bf44-d26dfdf04856" />
 
 ### Dashboard Page
-<img width="1920" height="1080" alt="dashboardss" src="https://github.com/user-attachments/assets/ecddbe71-83a5-4135-b882-0be75b2cf0b4" />
+<img width="1920" height="1080" alt="dashboardss" src="https://github.com/user-attachments/assets/c93fe6e7-1f7d-4d2a-90df-76d7b2335124" />
+
 
 ## 🛠️ Setup Instructions
 
