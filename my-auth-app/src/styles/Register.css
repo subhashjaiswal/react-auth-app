@@ -1,0 +1,96 @@
+.register-bg {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ededed;
+}
+.register-panel {
+  background: #18191a;
+  color: #fff;
+  border-radius: 2rem;
+  padding: 2rem 3rem 1rem 3rem;
+  display: flex;
+  flex-direction: column;
+  max-width: 650px;
+  width: 100%;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.25);
+}
+.register-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.register-logo {
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+.register-subheader {
+  color: #ccc;
+  font-size: 1rem;
+  margin-bottom: 14px;
+}
+.register-fields-row {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 14px;
+}
+.register-fields-row input {
+  flex: 1;
+  border-radius: 8px;
+  border: 1px solid #242424;
+  background: #232426;
+  color: #fff;
+  padding: 12px;
+  font-size: 1rem;
+}
+.register-avatar {
+  background: #232426;
+  width: 56px;
+  height: 56px;
+  border-radius: 9px;
+  margin-right: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.register-options-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 18px;
+}
+.register-options-row label {
+  color: #ccc;
+  font-size: 1rem;
+}
+.register-btn {
+  background: #fff;
+  color: #18191a;
+  border-radius: 8px;
+  border: none;
+  padding: 0.7rem 1.2rem;
+  font-size: 1.06rem;
+  font-weight: bold;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+.register-btn:hover {
+  background: #eee;
+}
+.register-link {
+  color: #ccc;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.register-footer {
+  color: #ccc;
+  font-size: 1rem;
+  text-align: left;
+  margin-bottom: 12px;
+}
+.footer {
+  margin-top: 15px;
+}
